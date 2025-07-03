@@ -33,7 +33,7 @@ I am currently pursuing a [Bachelor of Science in Information Technology](https:
 
 ## 🛠️ Tech Stack
 
-<img align="right" src="https://github.com/user-attachments/assets/2aea4921-f61a-4c6a-a1b4-31dee1ea5fa5" width="300">
+<img align="right" src="https://github.com/user-attachments/assets/2aea4921-f61a-4c6a-a1b4-31dee1ea5fa5" width="500">
 
 
 **<small>Languages & Syntax:</small>**
