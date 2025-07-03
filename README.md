@@ -1,4 +1,3 @@
-<!-- Header -->
 ---
 
 <div align="center">
@@ -109,5 +108,3 @@ I am currently pursuing a [Bachelor of Science in Information Technology](https:
 <p align="center">
   <code>“Let’s create something extraordinary.” – Calyxo ⚡</code>
 </p>
-
----
